@@ -1,5 +1,5 @@
-<script lang="typescript">
-import "../style/main.scss";
+<script>
+    import "../app.css";
 </script>
 
 <slot></slot>
