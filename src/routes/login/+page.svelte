@@ -3,7 +3,7 @@
 </svelte:head>
 
 <main class="flex items-center justify-center h-dvh">
-    <section class="bg-slate rounded-xl w-4/5 h-fit p-12">
+    <section class="bg-black-800 rounded-xl w-4/5 p-12">
         <h1 class="text-4xl font-bold text-center">Welcome Back</h1>
 
         <form class="mt-8 space-y-6">
@@ -15,7 +15,7 @@
                     name="email"
                     id="email"
                     type="email"
-                    class="rounded-lg w-full h-10 px-2 border-none outline-none bg-deepslate"
+                    class="rounded-lg w-full h-10 px-2 border-none outline-none bg-black-700"
                 />
             </div>
 
@@ -27,7 +27,7 @@
                     name="password"
                     id="password"
                     type="password"
-                    class="rounded-lg w-full h-10 px-2 border-none outline-none bg-deepslate"
+                    class="rounded-lg w-full h-10 px-2 border-none outline-none bg-black-700"
                 />
             </div>
 
