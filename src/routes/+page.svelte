@@ -7,7 +7,7 @@
         <div class="text-center space-y-1">
             <h1 class="text-5xl font-black">Imagining a new social media</h1>
 
-            <p class="text-black-300 text-sm font-thin">
+            <p class="text-black-100 text-sm font-light">
                 Ever wanted to be using a social media for once in your life
                 without big comapanies stealing your data? we are the way to go.
                 Roya's platforms are completely secure, ad-free and open source
