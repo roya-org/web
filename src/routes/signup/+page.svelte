@@ -3,7 +3,7 @@
 </svelte:head>
 
 <main class="flex items-center justify-center h-dvh">
-    <section class="bg-black-800 rounded-xl w-4/5 p-12">
+    <section class="bg-black-800 border-2 border-black-700 rounded-xl w-4/5 p-12">
         <h1 class="text-3xl font-bold text-center">Create an account</h1>
 
         <form class="mt-8 space-y-4">
